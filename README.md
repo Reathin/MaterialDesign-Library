@@ -6,37 +6,49 @@ https://github.com/rey5137/material
 
 ### MaterialDesignLibrary
 md控件库，可兼容到2.2。
+
 https://github.com/navasmdc/MaterialDesignLibrary
 
 ### Material Dialog
 https://github.com/afollestad/material-dialogs
+
 ![enter description here][1]
 
 ### Material Spinner
 https://github.com/jaredrummler/MaterialSpinner
+
 ![enter description here][2]
+
 ### fab-transformation
 https://github.com/konifar/fab-transformation
+
 ![enter description here][3]![enter description here][4]
 
 ### Material-Animations
 transition动画和共享元素Demo
+
 https://github.com/lgvalle/Material-Animations
+
 ![enter description here][5]
 
 ### Lollipop Transitions Backport
 低版本应用transition动画效果
+
 https://github.com/andkulikov/transitions-everywhere
+
 ![enter description here][6]
 
 ### material-scrolling
 https://github.com/satorufujiwara/material-scrolling
+
 ![enter description here][7]
 
 
 ### material-range-bar
 可以选择一个范围内的值而不是单个值的 SeekBar
+
 https://github.com/oli107/material-range-bar
+
 ![enter description here][9]
 ### material-intro-screen
 引导页
@@ -48,86 +60,123 @@ https://github.com/nbsp-team/MaterialFilePicker
 
 ### MaterialToolbar
 https://github.com/Shyri/MaterialToolbar
+
 ![enter description here][12]
 
 ### Material Navigation Drawer 
-官方的导航只提供了定制简单的菜单配置，放按钮，switch按钮，等等其他复杂的需求， 支持切换不同的主题(白天黑夜模式) 
+官方的导航只提供了定制简单的菜单配置，放按钮，switch按钮，等等其他复杂的需求， 支持切换不同的主题(白天黑夜模式)
+
 https://github.com/mikepenz/MaterialDrawer
+
 ![enter description here][13]
 
 ### android-floating-action-button
 https://github.com/futuresimple/android-floating-action-button
+
 ![enter description here][14]
 
 ### MaterialTransitionAnimation
 https://github.com/Cutta/MaterialTransitionAnimation
+
 ![enter description here][15]
+
 ### MaterialSearchView
 https://github.com/MiguelCatalan/MaterialSearchView
+
 ![enter description here][16]
 
 ### MaterialDateRangePicker
 日期时间选择
+
 https://github.com/borax12/MaterialDateRangePicker
+
 ![enter description here][17]
 
 ### FABProgressCircle
 https://github.com/JorgeCastilloPrz/FABProgressCircle
+
 ![enter description here][18]
+
 ### toolbar-button
 https://github.com/GautamGupta/toolbar-button
+
 ![enter description here][19]
+
 ### BottomBar
 https://github.com/roughike/BottomBar
+
 ![enter description here][20]
+
 
 ### MaterialLoadingProgressBar
 https://github.com/lsjwzh/MaterialLoadingProgressBar
+
 ![enter description here][21]
+
 ### ArcLayout
 https://github.com/florent37/ArcLayout
+
 ![enter description here][22]
+
 ### BottomDialogs
 https://github.com/javiersantos/BottomDialogs
+
 ![enter description here][23]
+
 ### TapTargetView
 https://github.com/KeepSafe/TapTargetView
+
 ![enter description here][24]
 
 ### AndroidBottomSheet
 https://github.com/michael-rapp/AndroidBottomSheet
+
 ![enter description here][25]
 
 ### Bottom Sheets
 底部动作栏，不用你自己用fragment加上动画去实现。
+
 https://github.com/soarcn/BottomSheet
+
 ![enter description here][26]
 
 ### MaterialEditText
 https://github.com/rengwuxian/MaterialEditText
+
 ![enter description here][27]      
 
 ### FABRevealLayout
 https://github.com/truizlop/FABRevealLayout
+
 ![enter description here][28]
+
 ### android-circlebutton
 https://github.com/markushi/android-circlebutton
+
 ![enter description here][29]
 
 ### Material Shadows
 给view组件加上不同的阴影效果
+
 https://github.com/h6ah4i/android-materialshadowninepatch
+
 ![enter description here][30]
 
 ### folding-cell-android
 https://github.com/Ramotion/folding-cell-android
+
 ![enter description here][31]
+
 ### ExpectAnim
 https://github.com/florent37/ExpectAnim
+
 ![enter description here][32]
+
 ### PatternLockView
 https://github.com/aritraroy/PatternLockView
+
 ![enter description here][33]
+
 
 
   [1]: https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png
